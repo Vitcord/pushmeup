@@ -45,7 +45,7 @@ module APNS
       category == that.category &&
       badge == that.badge &&
       sound == that.sound &&
-      content_available== that.content_available &&
+      content_available == that.content_available &&
       other == that.other
     end
 
